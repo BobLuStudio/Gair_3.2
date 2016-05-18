@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gair3.2_ControlPanel", "Gair3.2_ControlPanel\Gair3.2_ControlPanel.vcxproj", "{7470307D-0A51-4BEC-8D17-A67C6559997E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Command_Center_3.2", "Command_Center_3.2\Command_Center_3.2.vcxproj", "{299263E6-B6FC-4152-A727-49AFAF4F3B72}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gair_3.2", "Gair_3.2\Gair_3.2.vcxproj", "{4E9FE7B5-F317-4D7C-AB75-B1D7021688F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remote_Controller_3.2", "Remote_Controller_3.2\Remote_Controller_3.2.vcxproj", "{7AF7B433-03D4-4CF5-8961-474AD873CEF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7470307D-0A51-4BEC-8D17-A67C6559997E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7470307D-0A51-4BEC-8D17-A67C6559997E}.Debug|Win32.Build.0 = Debug|Win32
+		{7470307D-0A51-4BEC-8D17-A67C6559997E}.Release|Win32.ActiveCfg = Release|Win32
+		{7470307D-0A51-4BEC-8D17-A67C6559997E}.Release|Win32.Build.0 = Release|Win32
+		{299263E6-B6FC-4152-A727-49AFAF4F3B72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{299263E6-B6FC-4152-A727-49AFAF4F3B72}.Debug|Win32.Build.0 = Debug|Win32
+		{299263E6-B6FC-4152-A727-49AFAF4F3B72}.Release|Win32.ActiveCfg = Release|Win32
+		{299263E6-B6FC-4152-A727-49AFAF4F3B72}.Release|Win32.Build.0 = Release|Win32
+		{4E9FE7B5-F317-4D7C-AB75-B1D7021688F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E9FE7B5-F317-4D7C-AB75-B1D7021688F9}.Debug|Win32.Build.0 = Debug|Win32
+		{4E9FE7B5-F317-4D7C-AB75-B1D7021688F9}.Release|Win32.ActiveCfg = Release|Win32
+		{4E9FE7B5-F317-4D7C-AB75-B1D7021688F9}.Release|Win32.Build.0 = Release|Win32
+		{7AF7B433-03D4-4CF5-8961-474AD873CEF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AF7B433-03D4-4CF5-8961-474AD873CEF6}.Debug|Win32.Build.0 = Debug|Win32
+		{7AF7B433-03D4-4CF5-8961-474AD873CEF6}.Release|Win32.ActiveCfg = Release|Win32
+		{7AF7B433-03D4-4CF5-8961-474AD873CEF6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
